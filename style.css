@@ -1,0 +1,103 @@
+.section-1{
+    background-color: #EEEEEE;
+    height: 40px;
+    padding-top: 10px;
+    margin: auto;
+    align-items: center;
+}
+.section-2{
+    background-color: white;
+    box-shadow: #EEEEEE 1px 1px 1px 1px;
+}
+.sylaini{
+    color: #8DC63F;
+}
+.healthcare{
+    color:#1B76BB;
+}
+.image-38{
+    width: 100%;
+    height: 100%;
+}
+.section-4{
+    background-color: #F0FCDB;
+    height: 200px;
+}
+.buttons-4:hover{
+    transform: scale(1.1);
+}
+.section-5 img{
+width: 100%;
+height: 100%;
+}
+.card-body{
+    background-color: #F0FCDB;
+    border: 10px solid white;
+}
+.card-body:hover{
+    transform: scale(1.1);
+}
+.s-7{
+    background-image: url(img/bg-sc-7-\ \ \(1\).jpg);
+    background-size: cover;
+    background-clip: border-box;
+    background-repeat:repeat;
+    height: 40vh;
+    border: 10px solid white;
+    padding: 0;
+    margin: 0;
+}
+.s-7-2{
+    background-image: url(img/bg-sc-7-\ \ \(2\).jpg );
+    background-size: cover;
+    background-clip: border-box;
+    background-repeat:repeat;
+    height: 40vh;
+    border: 10px solid white;
+    padding: 0;
+    margin: 0;
+}
+.s-7-3{
+    background-image: url(img/bg-sc-7-\ \ \(3\).jpg);
+    background-size: cover;
+    background-clip: border-box;
+    background-repeat:repeat;
+    height: 40vh;
+    border: 10px solid white;
+    padding: 0;
+    margin: 0;
+}
+.s-7:hover{
+    transform: scale(1.1);
+    transition: 1s;
+    overflow: hidden;
+}
+.s-7-2:hover{
+    transform: scale(1.1);
+    transition: 1s;
+    overflow: hidden;
+}
+.s-7-3:hover{
+    transform: scale(1.1);
+    transition: 1s;
+    overflow: hidden;
+}
+
+
+
+.bg-7{
+    background-color: rgba(0, 0, 0, 0.568);
+    width: 100%;
+    height: 100%;
+    color: white;
+}
+.bg-7 button{
+    font-weight: bold;
+    background-color: #8DC63F;
+    text-transform: capitalize;
+    font-size: smaller;
+    color: white;
+}
+.bg-7 button:hover{
+    background-color: #518706;
+}
